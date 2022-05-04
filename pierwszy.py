@@ -1,5 +1,4 @@
 print("Cześć")
 print("to jest pierwsza zmiana")
-print("sraka")
 print("to napisał sebabezchleba hahahahah")
 print("to jest druga zmiana")
